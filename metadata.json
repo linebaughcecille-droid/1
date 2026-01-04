@@ -1,0 +1,7 @@
+{
+  "name": "Amazon Lifestyle Scene Creator",
+  "description": "Transform product white-background photos into professional Amazon lifestyle scenes using Gemini AI. Perfect for outdoor gear and camping equipment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
